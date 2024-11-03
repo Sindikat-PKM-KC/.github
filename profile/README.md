@@ -10,6 +10,7 @@
 
 - **Deteksi Suara yang Mencurigakan**: Model *Support Vector Machines (SVM)* digunakan untuk mendeteksi suara keras atau teriakan yang memiliki kemungkinan tinggi sebagai indikasi tindakan kriminal, dengan tingkat akurasi hingga 87%.
 - **Analisis Mendalam dengan MLP**: *Multi Layer Perceptron (MLP)* digunakan untuk analisis lanjutan, yang membantu meningkatkan akurasi deteksi hingga mencapai 92%.
+- **Fitur Offline**: Aplikasi dapat mendeteksi suara teriakan meskipun dalam keadaan tanpa koneksi internet.
 - **Integrasi dengan Smartwatch**: Aplikasi terhubung dengan perangkat smartwatch untuk memantau denyut jantung, yang dapat digunakan sebagai indikator tambahan untuk memperkuat deteksi aktivitas mencurigakan.
 - **Potensi Kolaborasi**: SINDIKAT memiliki potensi besar untuk berkolaborasi dengan institusi seperti kepolisian, sekolah, dan organisasi lain yang membutuhkan solusi keamanan.
 
