@@ -1,3 +1,5 @@
+![SINDIKAT App Cover](./images/app sindikat cover.png)
+
 # SINDIKAT: Sistem Multi Device Pendeteksi Tindakan Kriminal Berbasis Deep Learning
 
 ## 📜 Deskripsi Singkat
